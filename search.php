@@ -7,7 +7,8 @@
 </head>
 <body>
 	<?php
-	$conn =	mysqli_connect('3.132.234.157','Ngduc_user','123@123a','Ngducnewtoy_db');
+	$conn =	mysqli_connect('3.128.54.48
+','Ngduc_user','123@123a','Ngducnewtoy_db');
 	?>
 	<?php
 	
