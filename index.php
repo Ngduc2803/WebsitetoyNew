@@ -94,8 +94,7 @@ session_start();
 		<div class="product-group">
   <div class="row">            
     <?php
-    $connect = mysqli_connect('3.128.54.48
-','Ngduc_user','123@123a','Ngducnewtoy_db');
+    $connect = mysqli_connect('3.128.54.48','Ngduc_user','123@123a','Ngducnewtoy_db');
 
     if(!$connect){
       echo "Kết nối thất bại";
